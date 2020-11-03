@@ -1,0 +1,5 @@
+szám1 = input('Az első szám:')
+szám2 = input('A második szám:')
+szám1 = int(szám1)
+szám2 = int (szám2)
+print = ('A szorzatuk:', szám1 * szám2)
